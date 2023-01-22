@@ -1,0 +1,67 @@
+body
+{
+    background-color: #051586;
+    height: 150%;
+}
+
+#logo
+{
+    width: 30%;
+    height: 30%;
+}
+
+.order-btn{
+    background: -webkit-linear-gradient(#DBA32C, #FBF187);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 20px;
+}
+
+.menu-item>a{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.menu-item>a:hover{
+    background-color: rgba(5, 21, 135, 5);
+}
+
+.content-header{
+    background: -webkit-linear-gradient(#DBA32C, #FBF187);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.content{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+}
+
+.media-link{
+    background: -webkit-linear-gradient(#DBA32C, #FBF187);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 20px;
+    
+}
+
+.media-link-img{
+    margin: 5px;
+    width: 60%;
+    height: 100%;
+}
+
+.insta-link{
+
+}
+
+.wa-link{
+    
+}
